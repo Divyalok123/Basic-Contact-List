@@ -1,5 +1,3 @@
-/** @format */
-
 //requiring express
 const express = require("express");
 
